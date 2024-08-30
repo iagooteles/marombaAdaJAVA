@@ -1,0 +1,7 @@
+Contexto:
+
+Você foi contratado pela ADA para desenvolver um sistema simples de gestão de dietas e treinos: o marombaAda. Esse sistema deve ser capaz de gerenciar a rotina dos usuários que será composta por treino e alimentação.
+
+Premissas:
+A idéia éque o marombaAda possa ser usado por qualquer atleta, por tanto devem ser suportadas diversas modalidades (ex: Natação e Musculação)
+A dieta do atleta deve conter alimentos váriados, com respectivas quantidades e horários.
